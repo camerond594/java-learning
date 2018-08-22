@@ -6,3 +6,4 @@ Applications of note:
 - contains two project files that interact with each other
 - MyApp calls MyLib to run acrostic(args)
 - acrostic returns an acrostic using the 1st letter of the 1st word, 2nd of the 2nd, and so on
+- https://netbeans.org/kb/docs/java/javase-intro.html
